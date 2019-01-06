@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{8E0FD33F-5B21-4654-927F-39AA897143AB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="stockTelnet/pageServer.cs">
+    <Files>
+      <File FileName="stockTelnet/Program.cs" Line="141" Column="31" />
+      <File FileName="stockTelnet/pageServer.cs" Line="967" Column="58" />
+      <File FileName="../Synomizer/Synomizer/synUI.cs" Line="369" Column="21" />
+      <File FileName="../ThreadSafeConsole/ThreadSafeConsole/MyClass.cs" Line="124" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.stockTelnet PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

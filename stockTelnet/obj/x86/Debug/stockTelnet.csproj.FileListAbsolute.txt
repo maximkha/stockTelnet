@@ -1,0 +1,8 @@
+/Users/maxkhanov/Projects/stockTelnet/stockTelnet/bin/Debug/stockTelnet.exe
+/Users/maxkhanov/Projects/stockTelnet/stockTelnet/bin/Debug/stockTelnet.pdb
+/Users/maxkhanov/Projects/stockTelnet/stockTelnet/bin/Debug/ThreadSafeConsole.dll
+/Users/maxkhanov/Projects/stockTelnet/stockTelnet/bin/Debug/ThreadSafeConsole.pdb
+/Users/maxkhanov/Projects/stockTelnet/stockTelnet/obj/x86/Debug/stockTelnet.csprojResolveAssemblyReference.cache
+/Users/maxkhanov/Projects/stockTelnet/stockTelnet/obj/x86/Debug/stockTelnet.csproj.CoreCompileInputs.cache
+/Users/maxkhanov/Projects/stockTelnet/stockTelnet/obj/x86/Debug/stockTelnet.exe
+/Users/maxkhanov/Projects/stockTelnet/stockTelnet/obj/x86/Debug/stockTelnet.pdb
